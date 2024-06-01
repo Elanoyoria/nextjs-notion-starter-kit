@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '3542e19f2f954dff84eaded27a15d404?v=b393b26fdb2e4037a210a8ba96b86d80&pvs=4',
+  rootNotionPageId: '5fa108fe4c2f478393c30e740b0f6df3?v=0938ac918f314e9da880241f4b26755a&pvs=4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Blog for Elanoyoria',
-  domain: 'https://fuchsia-cousin-316.notion.site/3542e19f2f954dff84eaded27a15d404?v=b393b26fdb2e4037a210a8ba96b86d80&pvs=4',
+  domain: 'https://fuchsia-cousin-316.notion.site/5fa108fe4c2f478393c30e740b0f6df3?v=0938ac918f314e9da880241f4b26755a&pvs=4',
   author: 'Elanoyoria',
 
   // open graph metadata (optional)
